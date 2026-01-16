@@ -1,9 +1,0 @@
-.sidebar {
-    background: linear-gradient(
-        135deg,
-        var(--swift-orange),
-        var(--swift-dark-orange)
-    );
-    min-height: 100vh;
-    padding: 0;
-}
