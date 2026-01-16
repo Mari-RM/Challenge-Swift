@@ -1,0 +1,34 @@
+.promo-cards {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.promo-card {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    flex: 1;
+    position: relative;
+}
+
+.promo-price {
+    background-color: var(--swift-orange);
+    color: white;
+    border-radius: 8px;
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.promo-label {
+    background-color: #dc3545;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2px 8px;
+    border-radius: 12px;
+    position: absolute;
+    top: -5px;
+    right: 10px;
+}
